@@ -1,9 +1,0 @@
-{
-    "ros.distro": "humble",
-    "python.autoComplete.extraPaths": [
-        "/home/martin/school/msc/semester_3/mas514/uiabot_ws_2/install/odrive_ros2/lib/python3.10/site-packages",
-        "/home/martin/school/msc/semester_3/mas514/uiabot_ws_2/install/odrive_interfaces/local/lib/python3.10/dist-packages",
-        "/opt/ros/humble/lib/python3.10/site-packages",
-        "/opt/ros/humble/local/lib/python3.10/dist-packages"
-    ]
-}
